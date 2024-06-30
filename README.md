@@ -8,4 +8,4 @@ Welcome to the official BandAidan website! This website is to show off and flaun
 - [Who am I?](whoami.md)
 - [Library](library.md)
 - [Currently Reading!](currentread.md)
-- [test](index.html)
+- [test](styles.css)
