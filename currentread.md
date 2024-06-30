@@ -7,7 +7,7 @@ This page will be used for books I am currently reading, and the books I have fi
 
 
 Books Read
-||Breaking The Habit of Being Yourself|Dr. Joe Dispenza|Current Read|
+|![Small Image](71bQU3h3TzL._AC_UF1000,1000_QL80_.jpg)|Breaking The Habit of Being Yourself|Dr. Joe Dispenza|Current Read|
 |image|Title|Author|Date Read|
 |-----|-----|------|---------|
 |image|The Kybalion|The Three Initiates|06/07/2024*|
