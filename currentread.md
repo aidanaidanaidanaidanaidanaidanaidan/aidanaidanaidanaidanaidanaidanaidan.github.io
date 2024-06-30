@@ -141,46 +141,47 @@ This page tracks books I have read & the book I am currently reading.
   </tr>
   </table>
 
+
 ## Upcoming Reads
-  </table>
-   <tr>
+<table>
+  <tr>
     <td><strong>Image</strong></td>
     <td><strong>Title</strong></td>
     <td><strong>Author</strong></td>
     <td><strong>Date Read</strong></td>
   </tr>
-   <tr>
+  <tr>
     <td><img src="The Pleasure Trap.jpg" alt="Book Image" width="50"/></td>
     <td>The Pleasure Trap</td>
     <td>Douglas J. Lisle, Ph.D. & Alan Goldhamer, D.C.</td>
     <td>1st Week of July</td>
   </tr>
-    <tr>
+  <tr>
     <td><img src="Tales from Time Loop.jpg" alt="Book Image" width="50"/></td>
     <td>Tales from the Time Loop</td>
     <td>David Icke</td>
     <td>2nd Week of July</td>
   </tr>
-    <tr>
+  <tr>
     <td><img src="The 7 Habits Highly.jpg" alt="Book Image" width="50"/></td>
     <td>The 7 Habits of Highly Effective People</td>
     <td>Stephen R. Covey</td>
     <td>3rd Week of July</td>
   </tr>
-    <tr>
+  <tr>
     <td><img src="Psychedelics Encyclopedia.jpg" alt="Book Image" width="50"/></td>
-    <td>Psychedelics Encyclopediia</td>
+    <td>Psychedelics Encyclopedia</td>
     <td>Peter Stafford</td>
     <td>Final Week of July</td>
   </tr>
-    <tr>
+  <tr>
     <td><img src="10X Rule.jpg" alt="Book Image" width="50"/></td>
     <td>The 10X Rule</td>
     <td>Grant Cardone</td>
     <td>1st Week of August</td>
   </tr>
-    <tr>
-    <td><img src="Fractal Time.jpg" width="50"/></td>
+  <tr>
+    <td><img src="Fractal Time.jpg" alt="Book Image" width="50"/></td>
     <td>Fractal Time</td>
     <td>Gregg Braden</td>
     <td>2nd Week of August</td>
