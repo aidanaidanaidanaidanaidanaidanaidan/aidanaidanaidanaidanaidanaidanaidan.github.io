@@ -1,7 +1,7 @@
 ![Banner](BAND-AIDAN LOGO 1.jpg)
 
 My name is Aidan. I am a Vegan, a Reader, a Runner, a Hiker, a Truth-Finder, eBay Seller, Netflix Binger and EX-YouTube addict.
-<img src="16229100_262532554181078_6940468873170780160_n.jpg" alt="Book Image" width="50"/>
+<img src="underconstruction.jpg" alt="Book Image" width="1000"/>
 
 I really look forward to post things on this website. Currently, I will be updating y'all on the books I have been reading and infrequent Blog posts (social media feed). 
 
