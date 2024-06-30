@@ -163,7 +163,7 @@ This page tracks books I have read & the book I am currently reading.
     <td>2nd Week of July</td>
   </tr>
   <tr>
-    <td><img src="The 7 Habits Of Highly.jpg" alt="Book Image" width="50"/></td>
+    <td><img src="The 7 Habits Of Highly.png" alt="Book Image" width="50"/></td>
     <td>The 7 Habits of Highly Effective People</td>
     <td>Stephen R. Covey</td>
     <td>3rd Week of July</td>
