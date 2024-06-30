@@ -1,12 +1,9 @@
-# Band Aidan Website
+# Welcome To BandAidan!
 
-Welcome to the official Band Aidan website repository. This website is hosted using GitHub Pages and the domain `bandaidan.com`.
+Welcome to the official BandAidan website! This website is to show off and flaunt Aidan's life!
 
 ## Table of Contents
 
-- [Setup](#setup)
-- [Adding Content](#adding-content)
-- [Custom Domain Configuration](#custom-domain-configuration)
-- [DNS Configuration](#dns-configuration)
-- [Enabling HTTPS](#enabling-https)
-- [Troubleshooting](#troubleshooting)
+- [Who am I?](#who-am-i?)
+- [Library](#library)
+- [Currently Reading!](#currently-reading!)
