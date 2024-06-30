@@ -8,3 +8,6 @@ I really look forward to post things on this website. Currently, I will be updat
 Eventually, I will be speaking on concentrated topics that interest me (by viewing books read, you will have a rough idea where I want to go)
 
 "We accept the reality of the world with which we've been presented. It's as simple as that." - Christof, The Truman Show (1996)
+
+
+![Alt Text](book.gif)
