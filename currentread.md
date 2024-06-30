@@ -8,16 +8,16 @@ This page will be used for books I am currently reading, and the books I have fi
 
 <table>
   <tr>
-    <td><strong>Current Read</strong></td>
-    <td>Breaking The Habit of Being Yourself</td>
-    <td>Dr. Joe Dispenza</td>
-    <td>Current Read</td>
-  </tr>
-  <tr>
     <td><strong>Image</strong></td>
     <td><strong>Title</strong></td>
     <td><strong>Author</strong></td>
     <td><strong>Date Read</strong></td>
+  </tr>
+  <tr>
+    <td>![Book Image](71bQU3h3TzL._AC_UF1000,1000_QL80_.jpg)</td>
+    <td>Breaking The Habit of Being Yourself</td>
+    <td>Dr. Joe Dispenza</td>
+    <td>Current Read</td>
   </tr>
   <tr>
     <td>image</td>
