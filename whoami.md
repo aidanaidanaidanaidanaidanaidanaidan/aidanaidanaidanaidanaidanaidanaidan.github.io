@@ -1,5 +1,10 @@
-![Banner](underconstruction.jpg)
+![Banner](BAND-AIDAN LOGO 1.jpg)
 
-# UNDER CONSTRUCTION
+My name is Aidan. I am a Vegan, a Reader, a Runner, a Hiker, a Truth-Finder, eBay Seller, Netflix Binger and EX-YouTube addict.
+<img src="16229100_262532554181078_6940468873170780160_n.jpg" alt="Book Image" width="50"/>
 
-I am Aidan, the future owner of BandAid Inc.
+I really look forward to post things on this website. Currently, I will be updating y'all on the books I have been reading and infrequent Blog posts (social media feed). 
+
+Eventually, I will be speaking on concentrated topics that interest me (by viewing books read, you will have a rough idea where I want to go)
+
+"We accept the reality of the world with which we've been presented. It's as simple as that." - Christof, The Truman Show (1996)
