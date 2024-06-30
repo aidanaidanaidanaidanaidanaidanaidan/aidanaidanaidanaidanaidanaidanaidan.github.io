@@ -9,6 +9,7 @@ This page will be used for books I am currently reading, and the books I have fi
 Books Read
 ||Breaking The Habit of Being Yourself|Dr. Joe Dispenza|Current Read|
 |image|Title|Author|Date Read|
+|-----|-----|------|---------|
 |image|The Kybalion|The Three Initiates|06/07/2024*|
 |image|Media Sexploitation|Wilson Bryan Key|05/31/2024*|
 |image|Willpower|Roy Baumeister & John Tierney|02/03/2024*|
