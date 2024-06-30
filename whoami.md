@@ -10,4 +10,4 @@ Eventually, I will be speaking on concentrated topics that interest me (by viewi
 "We accept the reality of the world with which we've been presented. It's as simple as that." - Christof, The Truman Show (1996)
 
 
-![Alt Text](book.gif)
+![Alt Text](3o6Ztd9DUbUkBAHgHe.gif)
