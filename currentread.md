@@ -14,7 +14,7 @@ This page tracks books I have read & the book I am currently reading.
     <td><strong>Date Read</strong></td>
   </tr>
   <tr>
-    <td>![Banner](71bQU3h3TzL._AC_UF1000,1000_QL80_.jpg)</td>
+    <td><img src="71bQU3h3TzL._AC_UF1000,1000_QL80_.jpg" alt="Book Image" width="50"/></td>
     <td>Breaking The Habit of Being Yourself</td>
     <td>Dr. Joe Dispenza</td>
     <td>Current Read</td>
