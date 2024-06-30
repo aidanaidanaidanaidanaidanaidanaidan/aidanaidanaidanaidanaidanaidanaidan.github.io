@@ -19,6 +19,12 @@ This page tracks books I have read & the book I am currently reading.
     <td>Dr. Joe Dispenza</td>
     <td>Current Read</td>
   </tr>
+    <tr>
+    <td><img src="61NQ8vbRrfL.jpg" alt="Book Image" width="50"/></td>
+    <td>Infinite Love is the Only Truth Everything Else is Illusion</td>
+    <td>David Icke</td>
+    <td>06/15/2024*</td>
+  </tr>
   <tr>
     <td><img src="The Kybalion.jpg" alt="Book Image" width="50"/></td>
     <td>The Kybalion</td>
