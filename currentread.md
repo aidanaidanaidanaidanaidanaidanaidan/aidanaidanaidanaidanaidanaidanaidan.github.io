@@ -26,7 +26,7 @@ This page tracks books I have read & the book I am currently reading.
     <td>06/07/2024*</td>
   </tr>
   <tr>
-    <td><img src="Media Sexploitation.webd" alt="Book Image" width="50"/></td>
+    <td><img src="Media Sexploitation.webp" alt="Book Image" width="50"/></td>
     <td>Media Sexploitation</td>
     <td>Wilson Bryan Key</td>
     <td>05/31/2024*</td>
@@ -98,7 +98,7 @@ This page tracks books I have read & the book I am currently reading.
     <td>10/01/2023*</td>
   </tr>
   <tr>
-    <td><img src="Concise Human Nature,jpg" alt="Book Image" width="50"/></td>
+    <td><img src="Concise Human Nature.jpg" alt="Book Image" width="50"/></td>
     <td>The Concise Laws of Human Nature</td>
     <td>Robert Greene</td>
     <td>09/20/2023*</td>
@@ -110,7 +110,7 @@ This page tracks books I have read & the book I am currently reading.
     <td>09/15/2023*</td>
   </tr>
   <tr>
-    <td>Prisoner Of Azkaban.jpg</td>
+    <td><img src="Prisoner Of Azkaban.jpg" alt="Book Image" width="50"/></td>
     <td>Harry Potter and The Prisoner of Askaban</td>
     <td>J.K. Rowling</td>
     <td>08/31/2023*</td>
@@ -122,7 +122,7 @@ This page tracks books I have read & the book I am currently reading.
     <td>08/17/2023*</td>
   </tr>
   <tr>
-    <td><img src="The Millionarie Fastlane.jpg" alt="Book Image" width="50"/></td>
+    <td><img src="The Millionarie Fastlane.webp" alt="Book Image" width="50"/></td>
     <td>The Millionaire Fastlane</td>
     <td>MJ DeMarco</td>
     <td>08/15/2023*</td>
