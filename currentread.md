@@ -143,13 +143,13 @@ This page tracks books I have read & the book I am currently reading.
 
 ## Upcoming Reads
   </table>
-    <tr>
+   <tr>
     <td><strong>Image</strong></td>
     <td><strong>Title</strong></td>
     <td><strong>Author</strong></td>
     <td><strong>Date Read</strong></td>
   </tr>
-    <tr>
+   <tr>
     <td><img src="The Pleasure Trap.jpg" alt="Book Image" width="50"/></td>
     <td>The Pleasure Trap</td>
     <td>Douglas J. Lisle, Ph.D. & Alan Goldhamer, D.C.</td>
