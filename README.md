@@ -7,4 +7,4 @@
 
 - [All About Aidan!](whoami.md)
 - [Pulse Feed](blog.md)
-<img src="book.gif" alt="Book Image" width="50"/> [Current Reads & Past Favorites](currentread.md)
+- <img src="book.gif" alt="Book Image" width="50"/> [Current Reads & Past Favorites](currentread.md)
