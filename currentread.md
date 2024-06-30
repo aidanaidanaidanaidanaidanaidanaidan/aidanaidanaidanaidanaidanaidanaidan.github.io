@@ -1,8 +1,8 @@
-![Banner](underconstruction.jpg)
+![Banner](BAND-AIDAN LOGO 1.jpg)
 
-# UNDER CONSTRUCTION
 
-This page will be used for books I am currently reading, and the books I have finished reading. After I finish a book, you will know by the designated date.
+This page tracks books I have read & the book I am currently reading.
+*=estimation of date finished
 
 ## Books Read
 
@@ -14,7 +14,7 @@ This page will be used for books I am currently reading, and the books I have fi
     <td><strong>Date Read</strong></td>
   </tr>
   <tr>
-    <td>![Book Image](71bQU3h3TzL._AC_UF1000,1000_QL80_.jpg)</td>
+    <td>![Banner](71bQU3h3TzL._AC_UF1000,1000_QL80_.jpg)</td>
     <td>Breaking The Habit of Being Yourself</td>
     <td>Dr. Joe Dispenza</td>
     <td>Current Read</td>
