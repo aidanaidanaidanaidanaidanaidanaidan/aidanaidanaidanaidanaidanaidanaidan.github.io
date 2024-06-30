@@ -157,13 +157,13 @@ This page tracks books I have read & the book I am currently reading.
     <td>1st Week of July</td>
   </tr>
   <tr>
-    <td><img src="Tales from Time Loop.jpg" alt="Book Image" width="50"/></td>
+    <td><img src="Tales From Time Loop.jpg" alt="Book Image" width="50"/></td>
     <td>Tales from the Time Loop</td>
     <td>David Icke</td>
     <td>2nd Week of July</td>
   </tr>
   <tr>
-    <td><img src="The 7 Habits Highly.jpg" alt="Book Image" width="50"/></td>
+    <td><img src="The 7 Habits Of Highly.jpg" alt="Book Image" width="50"/></td>
     <td>The 7 Habits of Highly Effective People</td>
     <td>Stephen R. Covey</td>
     <td>3rd Week of July</td>
@@ -175,7 +175,7 @@ This page tracks books I have read & the book I am currently reading.
     <td>Final Week of July</td>
   </tr>
   <tr>
-    <td><img src="10X Rule.jpg" alt="Book Image" width="50"/></td>
+    <td><img src="10 X.jpg" alt="Book Image" width="50"/></td>
     <td>The 10X Rule</td>
     <td>Grant Cardone</td>
     <td>1st Week of August</td>
