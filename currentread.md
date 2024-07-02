@@ -193,7 +193,7 @@ This page tracks books I have read & the book I am currently reading.
     <td>3rd Week of August</td>
   </tr>
     <tr>
-    <td><img src="Book Covers/Thinking Fast Slow.jpg" alt="Book Image" width="50"/></td>
+    <td><img src="Book Covers/Thinking Fast And Slow.jpg" alt="Book Image" width="50"/></td>
     <td>Thinking, Fast and Slow</td>
     <td>Daniel Kahneman</td>
     <td>4th Week of August</td>
