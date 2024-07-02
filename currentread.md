@@ -186,4 +186,10 @@ This page tracks books I have read & the book I am currently reading.
     <td>Gregg Braden</td>
     <td>2nd Week of August</td>
   </tr>
+    <tr>
+    <td><img src="Book Covers/Unbroken.jfif" alt="Book Image" width="50"/></td>
+    <td>Unbroken</td>
+    <td>Laura Hillenbrand</td>
+    <td>3rd Week of August</td>
+  </tr>
 </table>
