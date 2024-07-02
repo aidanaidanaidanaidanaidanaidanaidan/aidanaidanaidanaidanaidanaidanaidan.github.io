@@ -13,11 +13,17 @@ This page tracks books I have read & the book I am currently reading.
     <td><strong>Author</strong></td>
     <td><strong>Date Read</strong></td>
   </tr>
+    <tr>
+    <td><img src="The Pleasure Trap.jpg" alt="Book Image" width="50"/></td>
+    <td>The Pleasure Trap</td>
+    <td>Douglas J. Lisle, Ph.D. & Alan Goldhamer, D.C.</td>
+    <td>1st Week of July</td>
+  </tr>
   <tr>
     <td><img src="71bQU3h3TzL._AC_UF1000,1000_QL80_.jpg" alt="Book Image" width="50"/></td>
     <td>Breaking The Habit of Being Yourself</td>
     <td>Dr. Joe Dispenza</td>
-    <td>Current Read</td>
+    <td>07/01/2024</td>
   </tr>
     <tr>
     <td><img src="61NQ8vbRrfL.jpg" alt="Book Image" width="50"/></td>
@@ -149,12 +155,6 @@ This page tracks books I have read & the book I am currently reading.
     <td><strong>Title</strong></td>
     <td><strong>Author</strong></td>
     <td><strong>Date Read</strong></td>
-  </tr>
-  <tr>
-    <td><img src="The Pleasure Trap.jpg" alt="Book Image" width="50"/></td>
-    <td>The Pleasure Trap</td>
-    <td>Douglas J. Lisle, Ph.D. & Alan Goldhamer, D.C.</td>
-    <td>1st Week of July</td>
   </tr>
   <tr>
     <td><img src="Tales From Time Loop.jpg" alt="Book Image" width="50"/></td>
