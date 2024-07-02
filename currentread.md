@@ -17,7 +17,7 @@ This page tracks books I have read & the book I am currently reading.
     <td><img src="The Pleasure Trap.jpg" alt="Book Image" width="50"/></td>
     <td>The Pleasure Trap</td>
     <td>Douglas J. Lisle, Ph.D. & Alan Goldhamer, D.C.</td>
-    <td>1st Week of July</td>
+    <td>Current Read</td>
   </tr>
   <tr>
     <td><img src="71bQU3h3TzL._AC_UF1000,1000_QL80_.jpg" alt="Book Image" width="50"/></td>
