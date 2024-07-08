@@ -14,10 +14,16 @@ This page tracks books I have read & the book I am currently reading.
     <td><strong>Date Read</strong></td>
   </tr>
     <tr>
+    <td><img src="Book Covers/Tales From Time Loop.jpg" alt="Book Image" width="50"/></td>
+    <td>Tales from the Time Loop</td>
+    <td>David Icke</td>
+    <td>Current Read</td>
+  </tr>
+    <tr>
     <td><img src="Book Covers/The Pleasure Trap.jpg" alt="Book Image" width="50"/></td>
     <td>The Pleasure Trap</td>
     <td>Douglas J. Lisle, Ph.D. & Alan Goldhamer, D.C.</td>
-    <td>Current Read</td>
+    <td>07/08/2024</td>
   </tr>
   <tr>
     <td><img src="Book Covers/71bQU3h3TzL._AC_UF1000,1000_QL80_.jpg" alt="Book Image" width="50"/></td>
@@ -155,13 +161,7 @@ This page tracks books I have read & the book I am currently reading.
     <td><strong>Title</strong></td>
     <td><strong>Author</strong></td>
     <td><strong>Date Read</strong></td>
-  </tr>
-  <tr>
-    <td><img src="Book Covers/Tales From Time Loop.jpg" alt="Book Image" width="50"/></td>
-    <td>Tales from the Time Loop</td>
-    <td>David Icke</td>
-    <td>2nd Week of July</td>
-  </tr>
+  </tr
   <tr>
     <td><img src="Book Covers/The 7 Habits Of Highly.png" alt="Book Image" width="50"/></td>
     <td>The 7 Habits of Highly Effective People</td>
