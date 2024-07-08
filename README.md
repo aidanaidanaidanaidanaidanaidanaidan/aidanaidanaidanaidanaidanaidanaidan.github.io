@@ -198,4 +198,10 @@ This page tracks books I have read & the book I am currently reading.
     <td>Daniel Kahneman</td>
     <td>4th Week of August</td>
   </tr>
+    <tr>
+    <td><img src="" alt="Book Image" width="50"/></td>
+    <td>Guns, Germs, and Steel</td>
+    <td>Jared Diamond</td>
+    <td>1st Week of September</td>
+  </tr>
 </table>
