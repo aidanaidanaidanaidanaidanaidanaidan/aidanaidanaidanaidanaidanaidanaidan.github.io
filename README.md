@@ -1,5 +1,5 @@
 ![Banner](BAND-AIDAN LOGO 1.jpg)
-Upcoming Videos: "From Misperception to Manipulation: The Power of Music" - 07/11/2024
+Upcoming Videos: "From Misperception to Manipulation: The Power of Music"
 
 This page tracks books I have read & the book I am currently reading.
 *=estimation of date finished
