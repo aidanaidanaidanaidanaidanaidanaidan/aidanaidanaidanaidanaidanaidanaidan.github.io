@@ -15,7 +15,7 @@ This page tracks books I have read & the book I am currently reading.
   </tr>
     <tr>
     <td><img src="Book Covers/Tales From Time Loop.jpg" alt="Book Image" width="50"/></td>
-    <td>Tales from the Time Loop</td>
+    <td>Tales from the Time Loop</td> [All About Aidan!](whoami.md)
     <td>David Icke</td>
     <td>Current Read</td>
   </tr>
