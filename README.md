@@ -21,7 +21,7 @@ This page tracks books I have read & the book I am currently reading.
   </tr>
     <tr>
     <td><img src="Book Covers/The Pleasure Trap.jpg" alt="Book Image" width="50"/></td>
-    <td>The Pleasure Trap</td>
+    <td>[The Pleasure Trap](whoami.md)</td>
     <td>Douglas J. Lisle, Ph.D. & Alan Goldhamer, D.C.</td>
     <td>07/08/2024</td>
   </tr>
