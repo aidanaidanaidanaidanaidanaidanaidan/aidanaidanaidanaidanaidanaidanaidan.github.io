@@ -15,16 +15,15 @@ This page tracks books I have read & the book I am currently reading.
   </tr>
     <tr>
     <td><img src="Book Covers/Tales From Time Loop.jpg" alt="Book Image" width="50"/></td>
-    <td>Tales from the Time Loop</td> [All About Aidan!](whoami.md)
+    <td>Tales from the Time Loop</td> 
     <td>David Icke</td>
     <td>Current Read</td>
-  </tr>
-    <tr>
+ <tr>
     <td><img src="Book Covers/The Pleasure Trap.jpg" alt="Book Image" width="50"/></td>
-    <td>[The Pleasure Trap](whoami.md)</td>
+    <td><a href="whoami.md">The Pleasure Trap</a></td>
     <td>Douglas J. Lisle, Ph.D. & Alan Goldhamer, D.C.</td>
     <td>07/08/2024</td>
-  </tr>
+</tr>
   <tr>
     <td><img src="Book Covers/71bQU3h3TzL._AC_UF1000,1000_QL80_.jpg" alt="Book Image" width="50"/></td>
     <td>Breaking The Habit of Being Yourself</td>
