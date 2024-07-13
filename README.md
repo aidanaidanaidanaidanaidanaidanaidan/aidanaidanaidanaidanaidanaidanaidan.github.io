@@ -13,11 +13,17 @@ This page tracks books I have read & the book I am currently reading.
     <td><strong>Author</strong></td>
     <td><strong>Date Read</strong></td>
   </tr>
+   <tr>
+    <td><img src="Book Covers/The 7 Habits Of Highly.png" alt="Book Image" width="50"/></td>
+    <td>The 7 Habits of Highly Effective People</td>
+    <td>Stephen R. Covey</td>
+    <td>Current Read</td>
+  </tr>
     <tr>
     <td><img src="Book Covers/Tales From Time Loop.jpg" alt="Book Image" width="50"/></td>
     <td>Tales from the Time Loop</td> 
     <td>David Icke</td>
-    <td>Current Read</td>
+    <td>07/13/2024</td>
  <tr>
     <td><img src="Book Covers/The Pleasure Trap.jpg" alt="Book Image" width="50"/></td>
     <td><a href="pleasuretrap.md">The Pleasure Trap</a></td>
@@ -162,12 +168,6 @@ This page tracks books I have read & the book I am currently reading.
     <td><strong>Date Read</strong></td>
   </tr
   <tr>
-    <td><img src="Book Covers/The 7 Habits Of Highly.png" alt="Book Image" width="50"/></td>
-    <td>The 7 Habits of Highly Effective People</td>
-    <td>Stephen R. Covey</td>
-    <td>3rd Week of July</td>
-  </tr>
-  <tr>
     <td><img src="Book Covers/Psychedelics Encyclopedia.jpg" alt="Book Image" width="50"/></td>
     <td>Psychedelics Encyclopedia</td>
     <td>Peter Stafford</td>
@@ -202,5 +202,11 @@ This page tracks books I have read & the book I am currently reading.
     <td>Guns, Germs, and Steel</td>
     <td>Jared Diamond</td>
     <td>1st Week of September</td>
+  </tr>
+   <tr>
+    <td><img src="Book Covers/Barkskins.jpg" alt="Book Image" width="50"/></td>
+    <td>Barkskins</td>
+    <td>Annie Proulx</td>
+    <td>2nd Week of September</td>
   </tr>
 </table>
