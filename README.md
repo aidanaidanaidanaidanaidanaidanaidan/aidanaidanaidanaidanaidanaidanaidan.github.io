@@ -210,7 +210,7 @@ This page tracks books I have read & the book I am currently reading.
     <td>2nd Week of September</td>
   </tr>
      <tr>
-    <td><img src="Book Covers/The Last Lecture.png" alt="Book Image" width="50"/></td>
+    <td><img src="Book Covers/The Last Lecture.jpg" alt="Book Image" width="50"/></td>
     <td>The Last Lecture</td>
     <td>Jeffrey Zaslow and Randy Pausch</td>
     <td>3rd Week Of September</td>
