@@ -7,7 +7,7 @@ Home
 <details>
   <summary>Click to expand Section 1</summary>
   
-  ### Section 1
+  ### Updates
 
   This is some collapsible content for Section 1.
 
@@ -19,7 +19,7 @@ Home
 <details>
   <summary>Click to expand Section 2</summary>
   
-  ### Section 2
+  ### Videos
 
   This is some collapsible content for Section 2.
 
