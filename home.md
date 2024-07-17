@@ -1,5 +1,32 @@
 ![Banner](BAND-AIDAN LOGO 1.jpg)
-# Welcome To BandAidan!
+Home
+# My Markdown Document
+
+## Collapsible Sections
+
+<details>
+  <summary>Click to expand Section 1</summary>
+  
+  ### Section 1
+
+  This is some collapsible content for Section 1.
+
+  - Item 1
+  - Item 2
+  - Item 3
+</details>
+
+<details>
+  <summary>Click to expand Section 2</summary>
+  
+  ### Section 2
+
+  This is some collapsible content for Section 2.
+
+  ```python
+  def hello_world():
+      print("Hello, World!")
+
 
 ### Welcome to the official BandAidan website! This website is to show off and flaunt Aidan's life!
 
