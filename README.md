@@ -249,10 +249,22 @@
 
 <details>
   <summary>Bio</summary>
-  
+
+  ### Bio
   Aidan is an American researcher, content creator, and recent college graduate. In 2024, he launched BandAidan.com, a fun portmanteau based on his name, to share insights from his research. In addition to his work, Aidan enjoys running, hiking, and meditating. He also adopted a full vegan plant-based diet in March of 2024.
 
   05112024 Bio Image.jpg
   (Aidan, May 2024)
 
 </details>
+<details>
+  <summary>News</summary>
+  
+  ### News
+
+  This is the section for News
+
+  - This is my first post on BandAidan.com (00/00/0000)
+</details>
+
+<details>
