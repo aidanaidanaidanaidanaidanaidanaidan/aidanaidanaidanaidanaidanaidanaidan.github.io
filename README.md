@@ -254,8 +254,5 @@
 
   05112024 Bio Image.jpg
   (Aidan, May 2024)
-  
-  ### Bio
 
-  
 </details>
