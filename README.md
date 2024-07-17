@@ -257,14 +257,3 @@
   (Aidan, May 2024)
 
 </details>
-<details>
-  <summary>News</summary>
-  
-  ### News
-
-  This is the section for News
-
-  - This is my first post on BandAidan.com (00/00/0000)
-</details>
-
-<details>
